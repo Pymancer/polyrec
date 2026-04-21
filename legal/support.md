@@ -1,6 +1,6 @@
 # Support — Polyrec Meeting Bot
 
-Scribe is an internal tool maintained by Polyanalitika.
+Polyrec is an internal tool maintained by Polyanalitika.
 
 ## Getting Help
 For issues or questions, contact the administrator:
