@@ -1,4 +1,4 @@
-# Privacy Policy — Scribe Meeting Bot
+# Privacy Policy — Polyrec Meeting Bot
 
 *Last updated: April 21, 2026*
 
