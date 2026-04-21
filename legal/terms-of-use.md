@@ -8,7 +8,7 @@ Polyrec is an internal tool available exclusively to authorized members of Polya
 Polyrec may only be used to transcribe meetings for legitimate organizational purposes. The bot must not be used to record meetings without the knowledge of participants.
 
 ## Participant Notice
-When Polyrec joins a meeting, all participants are notified of its presence as a visible participant named "Scribe". By continuing in the meeting, participants consent to transcription.
+When Polyrec joins a meeting, all participants are notified of its presence as a visible participant named "Polyrec". By continuing in the meeting, participants consent to transcription.
 
 ## Restrictions
 - Do not use Polyrec to record confidential meetings of third parties without authorization
