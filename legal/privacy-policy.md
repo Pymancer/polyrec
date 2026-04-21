@@ -2,10 +2,10 @@
 
 *Last updated: April 21, 2026*
 
-Scribe is a private, internal meeting transcription tool used exclusively within Polyanalitika.
+Polyrec is a private, internal meeting transcription tool used exclusively within Polyanalitika.
 
 ## Data We Collect
-When the Scribe bot joins a Zoom meeting, the following data is captured:
+When the Polyrec bot joins a Zoom meeting, the following data is captured:
 - Audio streams of meeting participants
 - Participant display names as shown in Zoom
 - Meeting metadata (date, duration)
